@@ -1,0 +1,6 @@
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGameLib\bin\Debug\GooseGameLib.dll
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGameLib\bin\Debug\GooseGameLib.pdb
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGameLib\obj\Debug\GooseGameLib.csprojAssemblyReference.cache
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGameLib\obj\Debug\GooseGameLib.csproj.CoreCompileInputs.cache
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGameLib\obj\Debug\GooseGameLib.dll
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGameLib\obj\Debug\GooseGameLib.pdb

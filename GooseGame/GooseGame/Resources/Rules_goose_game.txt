@@ -1,0 +1,12 @@
+It is played on a board on which a spiral path made up of 63 squares is drawn, marked with numbers or other symbols. The players start with a marker in the starting square and, in turn, proceed along the path of a number of spaces obtained by rolling a pair of dice. The object of the game is to reach the central square of the spiral.
+
+Some arrival boxes have a special effect. In the traditional version, the squares representing geese (hence the name of the game) are immediately moved forward by a number of squares equal to those covered by the movement just performed. These squares are placed every nine squares starting from squares 5 and 9 (a consequence of this arrangement is that an initial roll of 9 immediately leads the player to square 63 and therefore to victory).
+
+The other special boxes are as follows:
+
+- box 6 ("the bridge") the movement is repeated as in the boxes with the geese;
+- box 19 ("house" or "inn") remains stationary for three shifts;
+- boxes 31 ("well") and 52 ("prison") remain stationary until another marker arrives in the box, which in turn is "imprisoned";
+- box 42 ("labyrinth") back to 39;
+- box 58 ("skeleton") returns to 1.
+The arrival square (63) must be reached with an exact roll of the dice; otherwise, once you have reached the bottom, you will move back some points in excess.

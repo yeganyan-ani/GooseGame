@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GooseGame", "GooseGame\GooseGame.csproj", "{67610F08-8D99-47EE-8D6C-3D20A8E999F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GooseGameLib", "GooseGameLib\GooseGameLib.csproj", "{DFB9CA4A-AF24-4577-9BC2-77D9A22321D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67610F08-8D99-47EE-8D6C-3D20A8E999F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67610F08-8D99-47EE-8D6C-3D20A8E999F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67610F08-8D99-47EE-8D6C-3D20A8E999F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67610F08-8D99-47EE-8D6C-3D20A8E999F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB9CA4A-AF24-4577-9BC2-77D9A22321D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB9CA4A-AF24-4577-9BC2-77D9A22321D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB9CA4A-AF24-4577-9BC2-77D9A22321D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB9CA4A-AF24-4577-9BC2-77D9A22321D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3518CA8-8B37-4067-A4FD-3C0C21462F30}
+	EndGlobalSection
+EndGlobal

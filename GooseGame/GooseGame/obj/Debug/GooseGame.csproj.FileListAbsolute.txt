@@ -1,0 +1,14 @@
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGame\bin\Debug\GooseGame.exe.config
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGame\bin\Debug\GooseGame.exe
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGame\bin\Debug\GooseGame.pdb
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGame\bin\Debug\GooseGameLib.dll
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGame\bin\Debug\GooseGameLib.pdb
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGame\obj\Debug\GooseGame.csprojAssemblyReference.cache
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGame\obj\Debug\GooseGame.Menu.resources
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGame\obj\Debug\GooseGame.Properties.Resources.resources
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGame\obj\Debug\GooseGame.View.GameView.resources
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGame\obj\Debug\GooseGame.csproj.GenerateResource.cache
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGame\obj\Debug\GooseGame.csproj.CoreCompileInputs.cache
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGame\obj\Debug\GooseGame.csproj.CopyComplete
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGame\obj\Debug\GooseGame.exe
+C:\Users\Ani\Desktop\PMO project\GooseGame\GooseGame\GooseGame\obj\Debug\GooseGame.pdb
